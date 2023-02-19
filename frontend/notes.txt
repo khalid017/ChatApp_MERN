@@ -1,0 +1,4 @@
+notes inside components-> signup
+
+////
+**for refreshing chats latest msg in my chats, pass reload state of chat page inside my chats and call fetch whenever reload changes.
