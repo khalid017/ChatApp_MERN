@@ -1,8 +1,0 @@
-#jaise hi client login krega, apna jwt token dega body me.
-
-# req.headers.authorization is a req header which contains the jwt token as- bearer token
-
-////
-#logics in chat logics
-
-#auth middleware puts user data in req.user .
