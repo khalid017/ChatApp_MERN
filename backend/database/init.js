@@ -1,7 +1,7 @@
 const mongoose = require('mongoose')
 
 module.exports = ()=>{
-    mongoose.connect("mongodb+srv://user:user@cluster0.nkphu8y.mongodb.net/?retryWrites=true&w=majority")
+    mongoose.connect("your api key")
     .then(()=>{
         console.log("connected to db")
     })
